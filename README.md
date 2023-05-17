@@ -26,6 +26,7 @@ Applications with support of IPTV streams.
 - [IPTVnator](https://iptvnator.vercel.app/) - Open-source and cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV archive/catchup and more.
 - [VidGrid](https://vidgrid.tk.gg) - News channel focused multiviewer with support for live m3u8 playlists, YouTube and Twitch streams with one-click audio switching.
 - [IPTV Smarter Player](http://webtv.iptvsmarters.com) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple Webplayer](http://player.purpletv.app) - This Platform that offers to IPTV users to stream their content seamless in any browser.
 
 #### Windows
 
@@ -35,6 +36,7 @@ Applications with support of IPTV streams.
 - [PotPlayer](https://potplayer.daum.net/) - Free media player for Windows.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
+- [Purple Windows Player](https://purplesmarttv.com/#downloads) - Free IPTV Player for Windows thats allows to stream Live TV, VODs, and TV Shows.
 
 #### macOS
 
@@ -44,6 +46,7 @@ Applications with support of IPTV streams.
 - [Kodi](https://kodi.tv/) - Free cross-platform media player with library support.
 - [IPTVnator](https://github.com/4gray/iptvnator) - Free cross-platform IPTV streaming application with multiple features such as favorites, EPG, TV archive etc.
 - [termv](https://github.com/Roshan-R/termv) - A terminal IPTV player written in bash.
+- [Purple MacOS Player](https://purplesmarttv.com/#downloads) - Free IPTV Player for Windows thats allows to stream Live TV, VODs, and TV Shows.
 
 #### Linux
 
@@ -65,6 +68,7 @@ Applications with support of IPTV streams.
 - [FastoTV Lite](https://apps.apple.com/us/app/fastotvlite/id1496936356) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [WhatsUp TV](https://apps.apple.com/us/app/whatsup-tv/id1476950273) - Player for IPTV (.m3u) playlists.
 - [Smarters Player Lite](https://apps.apple.com/in/app/smarters-player-lite/id1628995509) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [Purple Playlist Player](https://apps.apple.com/us/app/purple-playlist-player/id1547219704) - Free IPTV Player for iOS thats allows to stream Live TV, VODs, and TV Shows.
 
 
 #### Android
@@ -86,10 +90,12 @@ Applications with support of IPTV streams.
 - [DangoPlayer](https://play.google.com/store/apps/details?id=com.aleapps.videotime) - A simple lightweight and fast video player and IPTV client for Android.
 - [DangoPlayer TV](https://play.google.com/store/apps/details?id=com.aleapps.videotimetv) - Port of the DangoPlayer IPTV client for Android TV and Google TV.
 - [IPTV Smarters App](https://www.iptvsmarters.com/#downloads) - Video streaming player that allows your IPTV customers or end-users to stream content like Live TV, VOD, Series, and TV Catchup supplied by you.
+- [IPTV Smart Purple Player](https://purplesmarttv.com/#downloads) - Free IPTV Player for Android thats allows to users to stream Live TV, EPG, Catchup, VODs, and TV Shows seamlessly with their own content.
 
 #### Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - Smart TV application which provided opportunity of IPTV viewing for its users.
+- [Purple Player](https://login.purpletv.app) - Free IPTV Player for Samsung Smart TV thats allows to users to stream Live TV, EPG, Catchup, VODs, and TV Shows seamlessly with their own content.
 
 #### Apple TV
 
